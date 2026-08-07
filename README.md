@@ -1,4 +1,1 @@
-# Mind-math-quizzer
-python project SAII Symbiosis International (Deemed University)
-* Contributor: Sanobar
-* Reviewed by Srushti
+# Mind Math Quizzer - Sanobar Version
